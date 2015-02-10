@@ -1,0 +1,12 @@
+.bash_history
+
+access.log
+error.log
+uwsgi.log
+
+www/python/src/config.json
+www/python/venv
+
+replica.my.cnf
+
+*~
