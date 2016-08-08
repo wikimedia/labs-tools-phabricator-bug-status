@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title>phabricator-bug-status</title>
+	</head>
+	<body>
+		<p>API for accessing Phabricator over JSONP, originally developed for use with <a href="https://en.wikipedia.org/wiki/MediaWiki_talk:Gadget-BugStatusUpdate.js">BugStatusUpdate</a>.</p>
+	</body>
+</html>
+
